@@ -4,7 +4,7 @@ dataset can be found [here](https://drive.google.com/drive/folders/1kFSl8acOOQLJ
 
 This project integrates quantum processing demonstrating the potential of quantum convolution in image classification tasks. The readme file could further discuss the implications of combining quantum and classical approaches and interpret the training results.
 
-#Problem Statement
+## Problem Statement
 
 The mission is to delve into the unique convergence of quantum computing and image analysis. Specifically, aim is to implement a model classifying face image data set to predict Autisim disorder  And to unravel the mysteries of QCNN architecture and its application in classifying images, while keeping a keen focus on the medical dataset. Furthermore, we endeavor to draw comparisons between the QCNN and its classical counterpart, the Convolution Neural Network (CNN).
 
