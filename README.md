@@ -37,6 +37,6 @@ The mission is to delve into the unique convergence of quantum computing and ima
 7. **Visualization:**
    - A visualization is created to show original and quantum-processed images side by side. The first row displays original images, and subsequent rows display the output channels of the quantum-processed images.
 
-code of notebook is at [code notebook](./qml copy.ipynb)
+code of notebook is at [code notebook](./qmlcopy.ipynb)
 
 
