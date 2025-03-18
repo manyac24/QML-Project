@@ -16,7 +16,7 @@ This project integrates quantum processing demonstrating the potential of quantu
    - Labels are encoded with indices for autistic and non-autistic classes.
    - Image preprocessing involves resizing, normalization, and adding an extra dimension for convolution channels. The dataset is then split into training and testing sets using `train_test_split` from scikit-learn.
   
-![Framework](./images/output.png)
+![Framework](./output.png)
 
 3. **Quantum Circuit Definition (`circuit`):**
    - A quantum device with 4 qubits is created using PennyLane.
@@ -34,5 +34,4 @@ This project integrates quantum processing demonstrating the potential of quantu
 7. **Visualization:**
    - A visualization is created to show original and quantum-processed images side by side. The first row displays original images, and subsequent rows display the output channels of the quantum-processed images.
 
- ![Framework](./images/output_1.png)
 
