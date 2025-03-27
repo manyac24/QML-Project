@@ -1,5 +1,5 @@
 # Automated Medical Image Diagnostics using QML
-
+kaggle link for dataset- https://www.kaggle.com/datasets/cihan063/autism-image-data/data
 dataset can be found [here](https://drive.google.com/drive/folders/1kFSl8acOOQLJwG3v9Sdx2Q-TKpkA_U8b?usp=drive_link):
 
 This project integrates quantum processing demonstrating the potential of quantum convolution in image classification tasks. The readme file could further discuss the implications of combining quantum and classical approaches and interpret the training results.
